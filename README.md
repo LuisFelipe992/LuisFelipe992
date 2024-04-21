@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 Atualmente estou trabalhando com Javascript
 - 🌱 atualmente estou estudando Javascript e suas bibliotecas
+- 🥰 amante do desenvolvimento de pequenos jogos 🎮
+<hr>
+<h2>stats: </h2>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFelipe992&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipe992&size_weight=0.8&count_weight=1&layout=compact&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
